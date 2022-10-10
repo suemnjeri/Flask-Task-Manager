@@ -7,8 +7,6 @@ To run the project on your local machine, clone the repo and follow the steps be
 
 I went ahead and deployed the app on Heroku.
 
-Thanks to Jack Rieger for the [Youtube tutorial here.](https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=238s&ab_channel=freeCodeCamp.org)
-
 
 ## Prerequisites
 
